@@ -1,0 +1,57 @@
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #24232380;
+  text-shadow: none;
+  background: transparent;
+  cursor: pointer;
+  box-shadow: transparent;
+  border: 2px solid #4e4e4e;
+  transition: 0.5s ease;
+  user-select: none;
+}
+
+button:hover {
+  color: #000000;
+  /* background: #9696c8;
+    border: 2px solid #9696c8;
+    text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
+    box-shadow: 0 0 5px #9696c8, 0 0 50px #9696c8; */
+}
+
+.red {
+  border: 2px solid #e74521;
+}
+
+.red:hover {
+  background: #e74521;
+  border: 2px solid #e74521;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
+  box-shadow: 0 0 5px #e74521, 0 0 50px #e74521;
+}
+
+.green {
+  border: 2px solid #2fc22c;
+}
+
+.green:hover {
+  background: #2fc22c;
+  border: 2px solid #2fc22c;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
+  box-shadow: 0 0 5px #2fc22c, 0 0 50px #2fc22c;
+}
+
+.blue {
+  border: 2px solid #008cff;
+}
+
+.blue:hover {
+  background: #008cff;
+  border: 2px solid #008cff;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
+  box-shadow: 0 0 5px #008cff, 0 0 50px #008cff;
+}

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title": "bmw",
+      "description": "car",
+      "price": "20000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXEbvP5_wLOSMPGz2aEzQYpkjll0CIAjIz7fCV2KUmA&s",
+      "id": 1
+    },
+    {
+      "title": "mersedes",
+      "description": "car",
+      "price": "11111",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXEbvP5_wLOSMPGz2aEzQYpkjll0CIAjIz7fCV2KUmA&s",
+      "id": 2
+    },
+    {
+      "title": "corvette",
+      "description": "pizdataya",
+      "price": "4000",
+      "image": "https://media.ed.edmunds-media.com/chevrolet/corvette/2024/oem/2024_chevrolet_corvette_coupe_e-ray_fq_oem_1_1600.jpg",
+      "id": 3
+    },
+    {
+      "title": "edged car",
+      "description": "elon masks failure",
+      "price": "123",
+      "image": "https://auto-didakt.com/assets/images/5/tesla_cybertruck_1-7cc6c0d5.jpg",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "name": "mersedes",
+      "price": "11111",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXEbvP5_wLOSMPGz2aEzQYpkjll0CIAjIz7fCV2KUmA&s"
+    }
+  ]
+}
